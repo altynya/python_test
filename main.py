@@ -1,3 +1,3 @@
 print('Hi, Vera')
 x=5
-print(x)
+print(x=1)
